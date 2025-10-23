@@ -1,5 +1,9 @@
-.startbox{
-    width: 5rem;
-    height: 5rem;
-    background: blue;
+.startbox {
+
+
+    width: 3rem;
+    height: 2rem;
+    background: rgb(255, 251, 0);
+    margin: 200px 0 0 150px;
+
 }
