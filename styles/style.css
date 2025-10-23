@@ -3,3 +3,8 @@
     height: 5rem;
     background: blue;
 }
+.placement{
+    display: flex;
+  justify-content: flex-end; 
+  margin: 0; 
+}
