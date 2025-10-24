@@ -9,3 +9,12 @@ color:aqua;
 body{
     background-color: grey;
 }
+.startbox {
+
+
+    width: 3rem;
+    height: 2rem;
+    background: rgb(255, 251, 0);
+    margin: 200px 0 0 150px;
+
+}
