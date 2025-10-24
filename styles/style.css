@@ -1,3 +1,14 @@
+.startbox{
+    width: 5rem;
+    height: 5rem;
+    background: blue;
+}
+p{
+color:aqua;
+}
+body{
+    background-color: grey;
+}
 .startbox {
 
 
