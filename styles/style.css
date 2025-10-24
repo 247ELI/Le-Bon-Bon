@@ -7,8 +7,9 @@ body{
     text-align: center;
 }
 .startbox {
-
-text-align: center;
+   
+    display: flex;
+margin-right: 50%;
     width: 7rem;
     height: 5rem;
     background: rgb(255, 251, 0);
