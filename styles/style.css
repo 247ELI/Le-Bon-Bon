@@ -3,15 +3,18 @@ p{
 color:aqua;
 }
 body{
-    background-color: grey;
+    background-color:brown;
     text-align: center;
 }
 .startbox {
-
-text-align: center;
+   
+    display: flex;
+margin-right: 50%;
     width: 7rem;
     height: 5rem;
     background: rgb(255, 251, 0);
-    margin: 200px 0 0 750px;
-
+    margin: 200px  0 750px;
+}
+header{
+    font-size: large;
 }
