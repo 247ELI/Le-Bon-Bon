@@ -8,7 +8,7 @@ body {
   text-align: center;
   font-family: Arial, sans-serif;
 
-  
+ 
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -18,8 +18,8 @@ body {
 }
 
 .image-container {
-  position: relative;     
-  display: inline-block;  
+  position: relative;      
+  display: inline-block;   
   margin-top: 20px;
 }
 
@@ -27,21 +27,27 @@ body {
   width: 400px;  
   height: auto;
   display: block;
-  border-radius: 10px;
+  
 }
 
 
 .startbox {
   position: absolute;
-  bottom: -20px;           
+  bottom: -23px;           
   left: 50%;
   transform: translateX(-50%);
- 
+  
   width: 7rem;
   height: 5rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 8px;
-  
+ 
+
+}
+
+.startbox a {
+ font-size: 21px;
+  color: rgb(11, 11, 207);
+  font-weight: bold;
 }
