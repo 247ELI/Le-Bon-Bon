@@ -5,16 +5,24 @@ color:aqua;
 body{
     background-color:brown;
     text-align: center;
+    font-size: 50px;
 }
 .startbox {
    
     display: flex;
-margin-right: 50%;
-    width: 7rem;
+    flex-direction: row;
+    justify-content: center;
+    width: 11rem;
     height: 5rem;
     background: rgb(255, 251, 0);
-    margin: 200px  0 750px;
+    align-items: center;
+    margin: 200px 0 0 675px;
+    text-align: center;
 }
 header{
     font-size: large;
+}
+
+h1{
+    font-size: 120px;
 }
