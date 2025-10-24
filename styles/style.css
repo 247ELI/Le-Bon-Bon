@@ -1,30 +1,55 @@
+p {
+  color: aqua;
+}
 
-p{ 
-color:aqua;
+body {
+  background-color: brown;
+  color: aqua;
+  text-align: center;
+  font-family: Arial, sans-serif;
+
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding-top: 40px;
+  min-height: 100vh;
 }
-body{
-    background-color:brown;
-    text-align: center;
-    font-size: 50px;
+
+.image-container {
+  position: relative;      
+  display: inline-block;   
+  margin-top: 20px;
 }
+
+.movelebrondown {
+  width: 400px;  
+  height: auto;
+  display: block;
+  
+}
+
+
 .startbox {
-   
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 11rem;
-    height: 5rem;
-    background: rgb(255, 251, 0);
-    align-items: center;
-    margin: 200px 0 0 675px;
-    text-align: center;
-}
-header{
-    font-size: large;
+  position: absolute;
+  bottom: -23px;           
+  left: 50%;
+  transform: translateX(-50%);
+  
+  width: 7rem;
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+
 }
 
-h1{
-    font-size: 120px;
+.startbox a {
+ font-size: 21px;
+  color: rgb(11, 11, 207);
+  font-weight: bold;
 }
 .movement{
     display: flex;
