@@ -66,3 +66,18 @@ a{
  
 
 }
+.bloodbackground{
+    background-image: url("/assets/BloodScreen.jpg");
+    background-size: cover;  
+    background-position: center;
+    background-repeat: no-repeat;
+}
+body, html{
+  margin: 0;
+  padding: 0;
+
+  color: white;
+}
+lebron{
+  
+}
