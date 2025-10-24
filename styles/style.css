@@ -51,3 +51,56 @@ body {
   color: rgb(11, 11, 207);
   font-weight: bold;
 }
+.movement{
+    display: flex;
+    justify-content: center;
+}
+.container{ 
+    display: flex;
+    flex-direction: row;
+    border: 3px solid black;
+    text-align: center;
+    
+    
+    
+}
+
+
+p{ 
+color:aqua;
+}
+body{
+    background-color:brown;
+    text-align: center;
+    font-size: 50px;
+}
+.startbox {
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 11rem;
+    height: 5rem;
+    background: rgb(255, 251, 0);
+    align-items: center;
+    margin: 200px 0 0 675px;
+    text-align: center;
+}
+header{
+    font-size: large;
+}
+
+h1{
+    font-size: 120px;
+}
+
+img{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    height: 500px;
+    width: 500px;
+}
+
+.placement{
+    font-size: 100px;
+}
