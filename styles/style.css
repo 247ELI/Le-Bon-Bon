@@ -14,7 +14,7 @@
 
 
 p{ 
-color:aqua;
+color: whitesmoke;
 }
 body{
     background-color:brown;
@@ -50,4 +50,8 @@ img{
 
 .placement{
     font-size: 100px;
+}
+
+a{
+    color:black;
 }
