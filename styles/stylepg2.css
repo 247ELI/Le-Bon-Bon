@@ -2,6 +2,11 @@
     display: flex;
     justify-content: center;
 }
-.container{
+.container{ margin-top: 700px;
+    display: flex;
+    flex-direction: row;
     border: 3px solid black
+    
+    
+    
 }
