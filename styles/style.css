@@ -33,7 +33,8 @@ h1{
 .container{ 
     display: flex;
     flex-direction: row;
-    border: 3px solid black
+    border: 3px solid black;
+    text-align: center;
     
     
     
@@ -69,7 +70,10 @@ h1{
 }
 
 img{
-    height: 100px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    height: 500px;
+    width: 500px;
 }
 
 .placement{
