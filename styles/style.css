@@ -53,5 +53,14 @@ img{
 }
 
 a{
-    color:black;
+    color: lightblue;
+    text-align: center;
+}
+
+.pic{
+
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+
 }
