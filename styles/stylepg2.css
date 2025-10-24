@@ -2,11 +2,27 @@
     display: flex;
     justify-content: center;
 }
-.container{ margin-top: 700px;
+.container{ 
+    margin-top: 600px; 
+    font-size: 25px;
     display: flex;
     flex-direction: row;
     border: 3px solid black
-    
-    
-    
+}
+.alignL{
+    text-align: left;
+    max-width: 1200px;
+}
+
+.alignR{
+    display:flex;
+    text-align: right;
+}
+
+.container1{
+    margin-top: 50px;
+    margin-left: 150px;
+    align-text:right;
+    font-size: 30px;
+   
 }
